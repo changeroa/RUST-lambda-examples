@@ -25,7 +25,7 @@ cargo lambda deploy
 ```
 
 Requirements:
-    - requires AWS credentials
+  - requires AWS credentials
 
 # 6. Debugging
 ```bash
