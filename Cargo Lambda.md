@@ -32,8 +32,9 @@ Requirements:
 --verbose
 ```
 
-
-
-
+## 7. invoke specific function out of multiple functions 
+```bash
+cargo lambda invoke basic-lambda --data-ascii "{ \"command\": \"hi\" }"
+```
 
 
