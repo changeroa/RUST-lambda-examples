@@ -23,8 +23,9 @@ cargo lambda build --release --arm64
 ```bash
 cargo lambda deploy
 ```
-    Requirements:
-        - requires AWS credentials
+
+Requirements:
+    - requires AWS credentials
 
 # 6. Debugging
 ```bash
