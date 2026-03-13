@@ -8,3 +8,8 @@ cargo lambda new new-lambda-project \
 ```bash
 cargo lambda watch
 ```
+
+# Test Lambda functions
+```bash
+cargo lambda invoke --data-ascii "{ \"command\": \"hi\" }"
+```
